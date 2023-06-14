@@ -1,4 +1,4 @@
-Atalho Recursos OSINT 
+Recursos OSINT -  Investigação Cibernética em Fontes Abertas
 
 * [Framework OSINT] (http://osintframework.com/) - Coleção de várias ferramentas OSINT divididas por categoria.
 * [Intel Techniques] (https://inteltechniques.com/menu.html) - Coleção de ferramentas OSINT. O menu à esquerda pode ser usado para navegar pelas categorias.
