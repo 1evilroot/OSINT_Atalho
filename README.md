@@ -1,3 +1,5 @@
+![OSINT Atalho](OSINT_Atalho.png)
+
 Recursos OSINT -  Investigação Cibernética em Fontes Abertas
 
 * [Framework OSINT] (http://osintframework.com/) - Coleção de várias ferramentas OSINT divididas por categoria.
